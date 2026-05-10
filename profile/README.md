@@ -71,10 +71,7 @@ More info to come soon!
 
 >***"We are experiencing what Gato calls "active development" and what I call "controlled structural failure." Please lower your expectations accordingly. Thank you for your patience. I was not being sincere about the thank you."***<br>
 > \- *Maxwell, somewhen*
-
-> ***"I have reviewed your solution. I have also reviewed several other things. The fish situation in this facility is frankly concerning and I think we should discuss it before anything else."***<br>
-> \- *Maxwell to Sako, during early development of the Physical Testing Facility*
-
+>
 <div align="center">
 
 ![Development](https://img.shields.io/badge/BUILD-EARLY_INDEV-E76F51?style=for-the-badge&labelColor=1A1A2E)
@@ -98,7 +95,9 @@ More info to come soon!
 ![Luau](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+> ***"I have reviewed your solution. I have also reviewed several other things. The fish situation in this facility is frankly concerning and I think we should discuss it before anything else."***<br>
+> \- *Maxwell to Sako, during early development of the Physical Testing Facility*
+<br>
 **Thanks for dropping by!**
 </div>
 
