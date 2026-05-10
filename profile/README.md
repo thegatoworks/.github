@@ -8,7 +8,7 @@ GatoWorks
 
 ## 👥 The Team
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center" width="50%">
@@ -53,7 +53,7 @@ He was already here. We did not ask. <br>
 
 ## 🎮 Current Projects
 
-<table>
+<table align="center">
 <tr>
 <td width="65%">
 
