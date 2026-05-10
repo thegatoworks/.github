@@ -98,7 +98,9 @@ More info to come soon!
 > ***"I have reviewed your solution. I have also reviewed several other things. The fish situation in this facility is frankly concerning and I think we should discuss it before anything else."***<br>
 > \- *Maxwell to Sako, during early development of the Physical Testing Facility*
 <br>
-**Thanks for dropping by!**
+
+Thanks for dropping by!
+
 </div>
 
 ---
