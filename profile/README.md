@@ -15,7 +15,6 @@ GatoWorks
 
 **Gato ([@thatgato](https://github.com/thatgato))**  
 *Founder · Lead Developer · Lead Game Designer*  
-Yes. <br>
 <span style="color: #888;">
 <i>Questioning most of Sako's coding decisions...</i>
 </span>
